@@ -11,7 +11,7 @@
 - [📋 Link to the Class Zoom Room](#-link-to-the-class-zoom-room)
 - [🧑‍🏫 Instructional Team / Contact Info](#-instructional-team-contact-information)
 - [📝 Additional Coding Practice Resources](#-additional-coding-practice-resources)
-- [🪴 Becoming Familiar With the GitHub Workflow](#-becoming-familiar-with-the-seb-github-workflow)
+- [:arrows_counterclockwise: Becoming Familiar With the GitHub Workflow](#-becoming-familiar-with-the-github-workflow)
 - [🏆 How to Succeed in SEBR](#-how-to-succeed-in-sebr)
 - [📈 Growth Mindset](#-growth-mindset)
 
@@ -35,29 +35,33 @@ Say your:
 | [Intro to the CLI](./Intro-to-cli/README.md)   | Access your computer’s command line interface (CLI) and start using it to navigate your computer. |
 | [Control Flow](./control-flow/README.md)       | Have your applications make decisions based on certain conditions using logic.                    |
 | [Functions](./functions/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Advanced HTML](./advanced-html/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Advanced CSS](./advanced-css/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Responsive Design](./responsive-design/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [DOM](./dom/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [DOM Events](./dom-events/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
-| [Pokemon Game](./gameboy/README.md)             | Write blocks of code you can run on command to perform a specific routine.                        |
+| [Advanced HTML](./advanced-html/README.md)             |  Build well-organized web pages using foundational tags and semantic elements for better accessibility and SEO.                       |
+| [Advanced CSS](./advanced-css/README.md)             | Master the use of CSS files to style web pages, manage layouts, and implement responsive design.                        |
+| [Responsive Design](./responsive-design/README.md)             | Create layouts that adapt to different screen sizes using flexible grids, media queries, and relative units.                        |
+| [DOM](./dom/README.md)             | Understand the DOM to interact with, update, and dynamically create HTML elements using JavaScript.                        |
+| [DOM Events](./dom-events/README.md)             |  Enhance web interactivity, master event listener syntax, and create in-memory elements for dynamic addition to the DOM.                     |
+| [Pokemon Game](./gameboy/README.md)             | Engage in a comprehensive exercise to master JavaScript and DOM manipulation by creating a dynamic web game.                       |
 
 This will be your shared class repo!
 
 
 ### 🏫 Link to the Class Zoom Room
 
-[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/91398072480?pwd=zPp7E0UonktALaaqUtmznltqU4dHsc.1)
+[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/99113074737?pwd=ZWpcxYA1HHlRHhMTTp7PNbSasFZNvH.1)
 
 ### 🧑‍🏫 Instructional Team Contact Information
 
 | Role | Name | Email |
 | :--- | :--- | :---- |
 | Senior Instructional Associate | Raul Jiminian     | raul.jiminian@generalassemb.ly     |
+| Senior Instructional Associate | Stephanie Lee     | stephanie.lee@generalassemb.ly     |
 | Senior Instructional Associate | Megan Hawkins     | megan.hawkins@generalassemb.ly     |
-| Instructional Associate        | Megan Barber      | megan.barber@generalassemb.ly      |
 | Senior Instructional Associate | Keith Baskerville | keith.baskerville@generalassemb.ly |
-| Lead Instructor                | Eric Klimowich    | eric.klimowich@generalassemb.ly    |
+| Instructional Associate        | Ian Terada        | ian.terada@generalassemb.ly        |
+| Instructional Associate        | Asti Shalymova    | asti.shalymova@generalassemb.ly    |
+| Instructional Associate        | Aisha Cannon      | aisha.cannon@generalassemb.ly   |
+| Instructional Associate        | Megan Barber      | megan.barber@generalassemb.ly      |
+
 
 ### 📝 Additional Coding Practice Resources
 
@@ -81,7 +85,7 @@ Designed to prep you for technical interviews, [Interview Cake](https://www.inte
 
 It's *not free*, however, so you should take advantage of its free 7-day email crash course and decide if it's worth the bucks to you.
 
-### 🪴 Becoming Familiar With the GitHub Workflow
+### :arrows_counterclockwise: Becoming Familiar With the GitHub Workflow
 
 #### Forking (copying) the GA Class Repo to Your GitHub Account
 
