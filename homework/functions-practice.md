@@ -11,10 +11,10 @@ get.
 * Loops, both `for` loops and `while` loops
 * Function expressions
 
-## Setup and Instructions (tentative)
+## Setup and Instructions
 
-1. Fork and clone this repository. ❓❓ OR should we use codepen? ❓❓
-2. In a javaScript file, complete the excercies and `console.log` each exercise's answer.
+1. Fork and clone this repository.
+2. Create a javaScript file, complete the excercies and `console.log` each exercise's answer.
 3. Be sure to number each function with a comment above it. 
   - For example, here's the first function, our gift to you: 
 
