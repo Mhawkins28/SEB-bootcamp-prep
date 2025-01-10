@@ -4,7 +4,7 @@
 
 By the end of this lesson, you'll be able to:
 
-* Practice using basic commands.
+- Practice using basic commands.
 
 ## The Basics
 
@@ -55,7 +55,7 @@ Ta-da! We’re speaking in a language our computer understands. This command lis
 
 The output of this command may be different for you, but that's okay! If you're on Windows and just installed WSL, you may not see anything here; that's also okay and expected!
 
- The visual below might help demonstrate what's happening here. The `student` directory (the current working directory) has been highlighted in blue. From this directory, the `ls` command will display its direct children, shown in dark gray. The other files and directories still exist. They aren't shown by this command though.
+The visual below might help demonstrate what's happening here. The `student` directory (the current working directory) has been highlighted in blue. From this directory, the `ls` command will display its direct children, shown in dark gray. The other files and directories still exist. They aren't shown by this command though.
 
 ![A diagram of what we're able to view by running the ls command in the student directory in the context of the rest of the file system](../assets/ls-diagram.png)
 
@@ -87,15 +87,15 @@ Let's write and execute a command to change to that directory.
 cd Music
 ```
 
-In this line, `cd` is the command, and `Music` is the *command argument*. Notice the space between them.
+In this line, `cd` is the command, and `Music` is the _command argument_. Notice the space between them.
 
-`Music` is also a *relative path*. A *relative path* is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths.
+`Music` is also a _relative path_. A _relative path_ is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths.
 
 ![Relative Path](../assets/relative-path.png)
 
 You could supply an absolute path as the argument if you wanted.
 
-> 📚 A *relative path* is the path to a directory or file from the perspective of the current working directory. This contrasts from an *absolute path* which is written from the perspective of the *root* or `/` directory.
+> 📚 A _relative path_ is the path to a directory or file from the perspective of the current working directory. This contrasts from an _absolute path_ which is written from the perspective of the _root_ or `/` directory.
 
 If we rerun `pwd`, we'll see that we're now in `/Users/student/Music` (or something similar).
 
@@ -177,15 +177,31 @@ Delete the file and the directory that you just created.
 - Navigate out of the current **directory** so you can delete it. Maybe return to the parent directory like we did earlier?
 - Use the `rmdir` command to delete the directory you created in the **You Do** section earlier. This command works similarly to the `mkdir` command but will destroy instead of create like the `rm` command. This command will only delete empty directories.
 
-After you've accomplished those tasks, create a directory structure that could be used if you sign up for a cohort.
+### 🎓 Mini-Lab
 
-In your `code` directory, create a `ga` directory to hold everything you do at General Assembly. Inside of this `ga` directory, make four more directories:
+Now that we've become familiar navigating through our file structure via the command terminal, lets create a directory structure that could be used if you sign up for a cohort.
+
+Navigate to your home directory - the followig command is the aboslute path and will always take you home:
+
+```bash
+cd ~
+```
+
+Create a `coding` directory, this will hold everything you do at General Assembly. Inside of this directory, make four more directories:
 
 - `labs` - For all lab assignments.
 - `lectures` - For all class lectures.
 - `projects` - For any large projects done in a course.
 - `sandbox` - For quick experimentation.
 
-When you're done, you should be able to run the `ls` command in the `ga` directory and see the following:
+When you're done, you should be able to run the `ls` command in the `coding` directory and see the following:
 
 ![The directory structure for the course!](../assets/course-dir-structure.png)
+
+Next, navigate over to the labs folder and make a directory called `boiler-plate`. Inside of this folder, make three files:
+
+- `index.html`
+- `style.css`
+- `main.js`
+
+We will use these files in a later lesson!

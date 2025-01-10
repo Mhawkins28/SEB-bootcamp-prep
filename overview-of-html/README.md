@@ -1,10 +1,9 @@
-# Advanced HTML
+# Overview of HTML
 
 ## Learning Objectives
 
 By the end of this lesson, you'll be able to:
 
-* Generate a foundational HTML boilerplate
 *  Apply semantic HTML tags to enhance the structure, accessibility, and SEO of a webpage
 * Construct nested HTML elements
 * Understand how attributes play a critical role in defining how an HTML element should appear on a web page
@@ -20,7 +19,6 @@ To the uninitiated, HTML might appear as a chaotic mix of brackets, words, and n
 
 | Lesson | Skills & Learning Objectives |
 | ------ | ---------------------------- |
-| [Setup and Boilerplate](./setup-and-boilerplate/README.md) | Understand and create the basic structure of an HTML document, known as the boilerplate. |
 | [Review HTML](./review-html/README.md)                         | Reinforce foundational HTML concepts and practices. |
 | [Nesting Elements](./nesting-elements/README.md) | Demonstrate how to correctly nest HTML elements within one another to create a well-structured document. |
 | [Attributes](./html-attributes/README.md) | Explain the purpose and usage of attributes in HTML elements to modify their default behavior or display properties. |
